@@ -1,0 +1,21 @@
+name,owner_name,ViolationTypeID,count(v.risk_category)
+Cafe Bakery,,103103,13
+Specialty's Cafe & Bakery,Specialty's Cafe & Bakery,103103,13
+LEE'S DELI,"STERLING M. ENTERPRISES, INC.",103104,12
+Lers Ros Thai Noodle,Lers Ros & Red / Narupon Silargorn,103102,12
+Ma's Dim Sum & Cafe,Bai Sen Ma,103102,11
+Cafe Venue,R VENUE INC,103103,10
+IRMA'S PAMPANGA RESTAURANT,"GUEVARRA, IRMA",103102,10
+Lee's Deli,"Sterling M. Enterprises, Inc.",103103,10
+Mixt Greens,"MG Restaurants, Inc.",103103,10
+San Francisco Soup Company,San Francisco Soup Company,103103,10
+BODEGA BISTRO,"H&K ENTERPRISES, INC",103103,9
+Fresca Restaurant,Fresca Restaurants Inc.,103105,9
+Lahore Karahi,SAJJAD ENTERPRISES INC,103102,9
+ST FRANCIS FOUNTAIN,"CONFUSION BOREDOM, LLC",103102,9
+San Tung Restaurant LLC,San Tun Restaurant LLC,103102,9
+Taqueria Castillo B,"Taqueria Castillo B, A California Corporation",103103,9
+Whole Foods Market,Whole Foods Market Inc,103102,9
+77 Chinese Cuisine,"77 Chinese Cuisine, Inc   Ting Lip Yee",103103,8
+Chang's Kitchen,Chang Sheng Inc,103102,8
+Crazy Pepper,Good For You Inc,103102,8
